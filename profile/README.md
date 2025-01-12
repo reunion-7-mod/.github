@@ -6,5 +6,6 @@
   </picture>
 </p>
 
-We are small team dedicated to modding Windows 10 to look like Windows 7. 
+We are a small team dedicated to modding Windows 10 to look like Windows 7. 
+
 <a href="https://discord.gg/dXVHnz2My9">Discord</a> · <a href="https://reunion7.com">Website</a>
