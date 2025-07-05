@@ -9,6 +9,6 @@
 We are a small team dedicated to modding Windows 10 to look like Windows 7. 
 <br />
 **This organization only contains small resources that Reunion7 uses. Most of the modifications seen in Reunion7 are in the form of open-source Windhawk mods
-thanks to talented people in the Windows modding community.**
+or discoveries thanks to talented people in the Windows modding community.**
 
 <a href="https://discord.gg/dXVHnz2My9">Discord</a> · <a href="https://reunion7.com">Website</a>
